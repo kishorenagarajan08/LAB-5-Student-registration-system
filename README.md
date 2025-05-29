@@ -1,6 +1,6 @@
 # LAB-5-Student-registration-system
-# NAME : HARIPRASATH S
-# REGISTER NUMBER : 212222240034
+# NAME : Kishore N
+# REGISTER NUMBER : 212223230106
 # DATE : 
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
